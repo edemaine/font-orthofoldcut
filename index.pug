@@ -1,0 +1,70 @@
+doctype html
+html
+  head
+    title Impossible Fold &amp; Cut Font
+    script(type="text/javascript", src="node_modules/@svgdotjs/svg.js/dist/svg.min.js")
+    script(type="text/javascript", src="node_modules/furls/furls.js")
+    script(type="text/javascript", src="node_modules/font-webapp/font-webapp.js")
+    script(type="text/javascript", src="font.js")
+    script(type="text/javascript", src="index.js")
+    style
+      :stylus
+        @media print
+          .noprint
+            display: none
+
+        .w-100
+          width: 100%
+        textarea
+          vertical-align: middle
+
+        svg
+          width: 100%
+          height: 100%
+        .font-solved svg .puzzle
+          display: none
+        .font-puzzle svg .solution
+          display: none
+    //#include virtual="../../analytics.html"
+  body
+    table.w-100
+      tr
+        td(style="text-align: left; vertical-align: middle;")
+          h1 Orthogonal Fold &amp; Cut Font
+        td(style="text-align: right; vertical-align: middle;")
+          h2 by Joshua Ani, Josh Brunner, <a href="https://erikdemaine.org/">Erik Demaine</a>, <a href="http://martindemaine.org">Martin Demaine</a>, Dylan Hendrickson, Victor Luo, and Rachana Madhukara, 2022
+
+    table#data.noprint.w-100
+      tr
+        td
+          label(for="text") Enter text to render:
+          | &nbsp;
+          textarea#text(name="text", rows=4, cols=40) text
+        td
+          input#solved(name="font", value="solved", type="radio", checked)
+          label(for="solved") Solved font (all cuts)
+          br
+          input#puzzle(name="font", value="puzzle", type="radio")
+          label(for="puzzle") Puzzle font (one cut)
+
+    p
+
+    #output.w-100
+      svg#svg
+        include font-inline.svg
+
+    .noprint(style="text-align: right")
+      button#simulate Simulate in Origami Simulator
+      button#downloadSim Download Crease Pattern for Origami Simulator
+      button#downloadSVG Download SVG
+
+    hr.noprint
+
+    p.noprint.
+      PDF links: <span id="links"></span>
+
+    p.noprint.
+      Check out <a href="https://erikdemaine.org/fonts/">other mathematical and
+      puzzle fonts</a>. &bull; Feedback or not working?
+      <a href="mailto:edemaine+fonts@mit.edu">Email Erik</a>. &bull;
+      <a href="https://github.com/edemaine/font-orthofoldcut">Source code on GitHub</a>.

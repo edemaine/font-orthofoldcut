@@ -1,0 +1,33 @@
+<svg width="21.695833mm" height="21.695835mm" version="1.1" viewBox="0 0 21.695834 21.695835" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-106.89167,-94.985408)">
+  <rect x="107.15626" y="95.249992" width="21.166666" height="21.166666" fill="#f2f2f2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529167"/>
+  <path class="solution" d="m115.09376 116.41665-1.32292-1.32291 1.32292-1.32292-1.32292-1.32292 1.32292-1.32291-1.32292-1.32292 1.32292-1.32292-1.32292-1.32291 1.32292-1.32292-1.32292-1.32292 1.32292-1.32291-7.9375-7.937499h21.16667l-7.9375 7.937499 1.32291 1.32291-1.32291 1.32292 1.32291 1.32292-1.32291 1.32291 1.32291 1.32292-1.32291 1.32292 1.32291 1.32291-1.32291 1.32292 1.32291 1.32292-1.32291 1.32291z" fill="#ccc" stop-color="#000000" stroke="#090" stroke-linejoin="round" stroke-width=".529167" style="font-variation-settings:normal"/>
+  <g fill="none">
+   <g stroke-linecap="square" stroke-linejoin="round" stroke-width=".264999">
+    <path d="m107.15626 103.18749h10.58333" stroke="#66b2ff"/>
+    <path d="m117.73959 103.18749h10.58334" stroke="#e50000"/>
+    <path d="m117.73959 104.51041h10.58334" stroke="#66b2ff"/>
+    <path d="m107.15626 104.51041h10.58333" stroke="#e50000"/>
+    <path d="m107.15626 105.83332h10.58333" stroke="#66b2ff"/>
+    <path d="m117.73959 105.83332h10.58334" stroke="#e50000"/>
+    <path d="m117.73959 107.15624h10.58334" stroke="#66b2ff"/>
+    <path d="m107.15626 107.15624h10.58333" stroke="#e50000"/>
+    <path d="m107.15626 108.47916h10.58333" stroke="#66b2ff"/>
+    <path d="m117.73959 108.47916h10.58334" stroke="#e50000"/>
+    <path d="m117.73959 109.80208h10.58334" stroke="#66b2ff"/>
+    <path d="m107.15626 109.80208h10.58333" stroke="#e50000"/>
+    <path d="m107.15626 111.12499h10.58333" stroke="#66b2ff"/>
+    <path d="m117.73959 111.12499h10.58334" stroke="#e50000"/>
+    <path d="m117.73959 112.44791h10.58334" stroke="#66b2ff"/>
+    <path d="m107.15626 112.44791h10.58333" stroke="#e50000"/>
+    <path d="m107.15626 113.77082h10.58333" stroke="#66b2ff"/>
+    <path d="m117.73959 113.77082h10.58334" stroke="#e50000"/>
+    <path d="m117.73959 115.09374h10.58334" stroke="#66b2ff"/>
+    <path d="m107.15626 115.09374h10.58333" stroke="#e50000"/>
+    <path d="m117.7396 116.41668v-21.166672" stroke="#e50000"/>
+   </g>
+   <rect x="107.15626" y="95.249992" width="21.166666" height="21.166666" stroke="#000" stroke-linecap="round" stroke-width=".529167"/>
+   <path class="puzzle" d="m113.77084 115.09374 1.32292 1.32291" stroke="#090" stroke-linecap="round" stroke-width=".529167"/>
+  </g>
+ </g>
+</svg>

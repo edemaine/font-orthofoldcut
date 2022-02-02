@@ -1,0 +1,15 @@
+<svg width="21.696518mm" height="21.695841mm" version="1.1" viewBox="0 0 21.696518 21.695841" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-130.70349,-94.98541)">
+  <rect transform="matrix(0,1,1,0,0,0)" x="95.25" y="130.96875" width="21.166666" height="21.166666" fill="#f2f2f2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529167"/>
+  <path class="solution" d="m130.96807 97.574553 6.61458 6.614577h-6.61458l6.9e-4 12.22752h21.16666v-2.32483l-6.61458-6.61458h6.61458v-12.227247h-21.16666z" fill="#ccc" stop-color="#000000" stroke="#090" stroke-linejoin="round" stroke-width=".529167" style="font-variation-settings:normal"/>
+  <g fill="none">
+   <g stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m152.13542 110.2171s-21.16666-8.76754-21.16666-8.76754" stroke="#e50000"/>
+    <path d="m137.16832 116.41666 4.38377-10.58333" stop-color="#000000" stroke="#66b2ff" style="font-variation-settings:normal"/>
+    <path d="m141.55209 105.83333 4.38377-10.583327" stroke="#e50000"/>
+   </g>
+   <path class="puzzle" d="m130.96875 104.18913h6.6139" stroke="#090" stroke-linecap="round" stroke-width=".529167"/>
+   <rect transform="matrix(0,1,1,0,0,0)" x="95.25" y="130.96875" width="21.166666" height="21.166666" stroke="#000" stroke-linecap="round" stroke-width=".529167"/>
+  </g>
+ </g>
+</svg>

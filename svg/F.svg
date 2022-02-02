@@ -1,0 +1,66 @@
+<svg width="21.695837mm" height="21.695835mm" version="1.1" viewBox="0 0 21.695837 21.695835" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-118.79792,-23.547918)">
+  <rect x="119.0625" y="23.812502" width="21.166666" height="21.166666" fill="#f2f2f2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529167"/>
+  <path class="solution" d="m129.64583 44.979167 2.64584-2.645834-2.64584-2.645833 2.64584-2.645833 1.32291 1.322917 1.32292-1.322917 1.32292 1.322917 1.32291-1.322917 1.32292 1.322917 1.32292-1.322917v-3.96875l-1.32292-1.322917-1.32292 1.322917-1.32291-1.322917-1.32292 1.322917-1.32292-1.322917-1.32291 1.322917-2.64584-2.645834 2.64584-2.645833 1.32291 1.322917 1.32292-1.322917 1.32292 1.322917 1.32291-1.322917 1.32292 1.322917 1.32292-1.322917v-3.968749h-21.16667v21.166666z" fill="#ccc" stroke="#0b840b" stroke-width=".529167"/>
+  <g fill="none">
+   <g stroke="#e50000" stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m132.29167 30.427084v-6.614582"/>
+    <path d="m134.9375 30.427083v-6.614582"/>
+    <path d="m137.58333 30.427083v-6.614582"/>
+   </g>
+   <g stroke="#66b2ff" stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m133.61458 30.427083v-6.614582"/>
+    <path d="m136.26041 30.427082v-6.614582"/>
+    <path d="m138.90624 30.427082v-6.614582"/>
+   </g>
+   <g stroke="#e50000" stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m134.9375 44.979166 1e-5 -2.645833"/>
+    <path d="m137.58333 44.979165 1e-5 -2.645833"/>
+    <path d="m132.29166 44.979166 1e-5 -2.645833"/>
+   </g>
+   <g stroke="#66b2ff" stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m136.26041 44.979165 1e-5 -2.645833"/>
+    <path d="m138.90624 44.979164 1e-5 -2.645833"/>
+    <path d="m133.61458 44.979165 1e-5 -2.645833"/>
+   </g>
+   <g stroke="#e50000" stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m132.29167 39.6875v-4.630209"/>
+    <path d="m134.9375 39.687499v-4.630209"/>
+    <path d="m137.58333 39.687499v-4.630209"/>
+   </g>
+   <g stroke="#66b2ff" stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m133.61458 39.687499v-4.630209"/>
+    <path d="m136.26041 39.687498v-4.630209"/>
+    <path d="m138.90624 39.687498v-4.630209"/>
+   </g>
+   <g stroke="#e50000" stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m138.90625 35.05729v-4.630206"/>
+    <path d="m133.61459 35.057291v-4.630206"/>
+    <path d="m136.26042 35.057291v-4.630206"/>
+   </g>
+   <g stroke="#66b2ff" stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m132.29167 35.057291v-4.630206"/>
+    <path d="m134.9375 35.05729v-4.630207"/>
+    <path d="m137.58333 35.05729v-4.630206"/>
+   </g>
+   <g stroke="#f00" stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m133.61459 42.333334v-2.645833"/>
+    <path d="m136.26042 42.333333v-2.645833"/>
+    <path d="m138.90625 42.333333v-2.645833"/>
+   </g>
+   <g stroke="#66b2ff" stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m134.9375 42.333333v-2.645833"/>
+    <path d="m137.58333 42.333332v-2.645833"/>
+    <path d="m132.29167 42.333333v-2.645833"/>
+   </g>
+   <g stroke-linecap="square" stroke-linejoin="round">
+    <path d="m119.0625 42.333333 21.16667-1e-6" stroke="#e50000" stroke-width=".265"/>
+    <path d="m119.0625 39.687501 21.16667-1e-6" stroke="#66b2ff" stroke-width=".264583px"/>
+    <path d="m119.0625 35.057292 21.16667-1e-6" stroke="#e50000" stroke-width=".265"/>
+    <path d="m119.0625 30.427084 21.16667 1e-6" stroke="#66b2ff" stroke-width=".264583px"/>
+   </g>
+   <rect x="119.0625" y="23.812504" width="21.166666" height="21.166666" stroke="#000" stroke-linecap="round" stroke-width=".529167"/>
+   <path class="puzzle" d="m129.64583 30.427081 2.64584 2.645834" stroke="#090" stroke-linecap="round" stroke-width=".529167"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="21.695833mm" height="21.695837mm" version="1.1" viewBox="0 0 21.695834 21.695837" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-130.70415,-47.360415)">
+  <g stroke-width=".529167">
+   <rect x="130.96873" y="47.625" width="21.166666" height="21.166666" fill="#f2f2f2" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+   <path class="solution" d="m152.1354 68.791668-6.61458-21.166666-3.96874 12.699974-3.96876-12.699975-6.61458 21.166666z" fill="#ccc" stop-color="#000000" stroke="#090" stroke-linejoin="round" style="font-variation-settings:normal"/>
+  </g>
+  <g fill="none">
+   <g stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
+    <path d="m141.55208 68.791671v-21.166667" stroke="#e50000"/>
+    <path d="m137.58332 68.791669v-21.166666" stroke="#66b2ff"/>
+    <path d="m145.52082 68.791669v-21.166666" stroke="#66b2ff"/>
+   </g>
+   <rect x="130.96873" y="47.625" width="21.166666" height="21.166666" stroke="#000" stroke-linecap="round" stroke-width=".529167"/>
+   <path class="puzzle" d="m137.58333 47.625 3.96875 12.699976" stroke="#090" stroke-linecap="round" stroke-width=".529167"/>
+  </g>
+ </g>
+</svg>

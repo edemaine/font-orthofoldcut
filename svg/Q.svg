@@ -1,0 +1,18 @@
+<svg width="21.695843mm" height="21.695833mm" version="1.1" viewBox="0 0 21.695843 21.695833" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-71.172909,-71.172916)">
+  <rect x="71.437492" y="71.4375" width="21.166666" height="21.166666" fill="#f2f2f2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529167"/>
+  <path class="solution" d="m76.729163 76.729165h10.583333v10.583333h5.291667v-15.874999h-21.166667v21.166666h15.875v-5.291667h-10.583333z" fill="#ccc" stop-color="#000000" stroke="#090" stroke-linejoin="round" stroke-width=".529167" style="font-variation-settings:normal"/>
+  <g fill="none">
+   <path d="m71.437498 71.4375h21.16667v21.166666h-21.16667z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529167"/>
+   <g stroke-linecap="square" stroke-linejoin="round" stroke-width=".264999">
+    <path d="m92.604164 92.604163-21.166667-21.166662" stroke="#e50000"/>
+    <path d="m71.437497 92.604163 10.583333-10.58333" stroke="#66b2ff"/>
+    <path d="m92.604164 71.437501-10.583334 10.583332" stroke="#e50000"/>
+    <path d="m87.312497 87.3125 5.291667-5.291667" stroke="#66b2ff"/>
+    <path d="m87.312497 87.3125-5.291667 5.291667" stroke="#e50000"/>
+   </g>
+   <rect x="71.437492" y="71.4375" width="21.166666" height="21.166666" stroke="#000" stroke-linecap="round" stroke-width=".529167"/>
+   <path class="puzzle" d="m87.312497 87.312497v5.291664" stroke="#090" stroke-linecap="round" stroke-width=".529167"/>
+  </g>
+ </g>
+</svg>
