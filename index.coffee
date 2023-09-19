@@ -114,8 +114,8 @@ window?.onload = ->
   ).join ', '
 
   document.getElementById('downloadSVG')?.addEventListener 'click', ->
-    app.downloadSVG 'impossible.svg', cleanupSVG app.svg.svg()
+    app.downloadSVG 'orthofoldcut.svg', cleanupSVG app.svg.svg()
   document.getElementById('downloadSim')?.addEventListener 'click', ->
-    app.downloadSVG 'impossible-simulate.svg', simulateSVG app.svg
+    app.downloadSVG 'orthofoldcut-simulate.svg', simulateSVG app.svg
   document.getElementById('simulate')?.addEventListener 'click', ->
     simulate simulateSVG app.svg
