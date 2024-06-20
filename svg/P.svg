@@ -1,7 +1,7 @@
 <svg width="21.695841mm" height="21.695833mm" version="1.1" viewBox="0 0 21.695841 21.695833" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(-47.360409,-71.172916)">
   <rect x="47.624992" y="71.4375" width="21.166666" height="21.166666" fill="#f2f2f2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529167"/>
-  <path class="solution" d="m51.593747 75.406249h3.96875v3.968749h-3.96875zm-3.96875 17.197916h10.583333v-10.583333h10.583333v-10.583333h-21.166666z" fill="#ccc" stop-color="#000000" stroke="#090" stroke-linejoin="round" stroke-width=".529167" style="font-variation-settings:normal"/>
+  <path class="solution" d="m51.593747 75.406249h3.96875v3.968749h-3.96875zm-3.96875 17.197916h10.583333v-10.583333h10.583333v-10.583333h-21.166666z" fill="#ccc" stop-color="#000000" stroke="#090" stroke-linejoin="round" stroke-width=".529167"/>
   <g fill="none">
    <path d="m47.624997 71.437499h21.16667v21.166666h-21.16667z" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529167"/>
    <g stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">

@@ -1,7 +1,7 @@
 <svg width="21.695835mm" height="21.695833mm" version="1.1" viewBox="0 0 21.695836 21.695833" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(-94.985409,-71.172916)">
   <rect x="95.249992" y="71.4375" width="21.166666" height="21.166666" fill="#f2f2f2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529167"/>
-  <path class="solution" d="m95.249996 71.437499v21.166666h5.291664l5.29167-5.291667 5.29167 5.291667h2.64583l2.64583-2.645833v-7.9375l-2.64583-2.645834 2.64583-2.645833v-5.291666zm10.583334 2.645833 5.29167 5.291666-5.29167 5.291667-5.29167-5.291667z" fill="#ccc" stop-color="#000000" stroke="#090" stroke-linejoin="round" stroke-width=".529167" style="font-variation-settings:normal"/>
+  <path class="solution" d="m95.249996 71.437499v21.166666h5.291664l5.29167-5.291667 5.29167 5.291667h2.64583l2.64583-2.645833v-7.9375l-2.64583-2.645834 2.64583-2.645833v-5.291666zm10.583334 2.645833 5.29167 5.291666-5.29167 5.291667-5.29167-5.291667z" fill="#ccc" stop-color="#000000" stroke="#090" stroke-linejoin="round" stroke-width=".529167"/>
   <g fill="none">
    <g stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
     <path d="m105.83335 92.604169v-21.166667" stroke="#e50000"/>

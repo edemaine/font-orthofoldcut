@@ -1,11 +1,11 @@
 <svg width="21.696518mm" height="21.695837mm" version="1.1" viewBox="0 0 21.696518 21.695837" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(-118.79759,-71.17257)">
   <rect transform="rotate(90)" x="71.437157" y="-140.22885" width="21.166666" height="21.166666" fill="#f2f2f2" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".529167"/>
-  <path class="solution" d="m140.22952 73.761713-6.61458 6.614583h6.61458l-6.9e-4 12.22752h-21.16666v-2.32483l6.61458-6.61458h-6.61458v-12.227253h21.16666z" fill="#ccc" stop-color="#000000" stroke="#090" stroke-linejoin="round" stroke-width=".529167" style="font-variation-settings:normal"/>
+  <path class="solution" d="m140.22952 73.761713-6.61458 6.614583h6.61458l-6.9e-4 12.22752h-21.16666v-2.32483l6.61458-6.61458h-6.61458v-12.227253h21.16666z" fill="#ccc" stop-color="#000000" stroke="#090" stroke-linejoin="round" stroke-width=".529167"/>
   <g fill="none">
    <g stroke-linecap="square" stroke-linejoin="round" stroke-width=".265">
     <path d="m119.06217 86.404266s21.16666-8.76754 21.16666-8.76754" stroke="#e50000"/>
-    <path d="m134.02927 92.603826-4.38377-10.58333" stop-color="#000000" stroke="#66b2ff" style="font-variation-settings:normal"/>
+    <path d="m134.02927 92.603826-4.38377-10.58333" stop-color="#000000" stroke="#66b2ff"/>
     <path d="m129.6455 82.020496-4.38377-10.583333" stroke="#e50000"/>
    </g>
    <rect transform="rotate(90)" x="71.437157" y="-140.22885" width="21.166666" height="21.166666" stroke="#000" stroke-linecap="round" stroke-width=".529167"/>
