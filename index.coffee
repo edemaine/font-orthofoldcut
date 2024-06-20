@@ -107,6 +107,7 @@ window?.onload = ->
       char = char.toUpperCase()
       return unless char of window.font
       drawLetter char, group, state
+  app.furls.syncClass 'symbol'
 
   document.getElementById('links').innerHTML = (
     for char, letter of font
